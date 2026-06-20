@@ -106,3 +106,4 @@ How do staffing levels impact operational efficiency?
 
 ## Color Theme
 Ocean Breeze {#03045E, #0077B6, ##00B4D8, #90E0EF, #CAF0F8}
+https://coolors.co/palette/03045e-0077b6-00b4d8-90e0ef-caf0f8
