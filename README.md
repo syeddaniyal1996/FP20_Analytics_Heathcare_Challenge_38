@@ -71,7 +71,7 @@ Overtime Distribution Analysis
 Occupancy vs Cost Correlation
 Financial Margin Comparison by Hospital Archetype
 
-#### Features
+### Features
 
 Multi-page Power BI report
 Interactive slicers and drill-through functionality
@@ -94,3 +94,15 @@ How does workforce strain affect patient outcomes?
 What is driving readmission rates?
 Which hospital archetypes achieve the highest profit margins?
 How do staffing levels impact operational efficiency?
+
+## Page 1: Overview
+<img width="1357" height="758" alt="01" src="https://github.com/user-attachments/assets/c0c125a3-d306-4113-8d2e-c046b189d214" />
+
+## Page 2: Clinical Operations
+<img width="1459" height="817" alt="02" src="https://github.com/user-attachments/assets/07ea5342-8d9a-4a72-83c7-694baf582dc5" />
+
+## Page 3: Workforce & Finance
+<img width="1462" height="815" alt="03" src="https://github.com/user-attachments/assets/4177317d-cf3d-49d3-9baa-583cf66cd2e3" />
+
+## Color Theme
+Ocean Breeze {#03045E, #0077B6, ##00B4D8, #90E0EF, #CAF0F8}
